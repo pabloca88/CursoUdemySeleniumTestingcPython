@@ -30,9 +30,3 @@ class test_002(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-    Host *
-    AddKeysToAgent
-    yes
-    IdentityFile
-    ~ /.ssh / id_ed25519
